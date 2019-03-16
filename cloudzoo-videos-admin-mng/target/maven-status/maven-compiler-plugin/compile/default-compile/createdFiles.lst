@@ -1,0 +1,5 @@
+com\cloudzoo\interceptor\LoginInterceptor.class
+com\cloudzoo\controller\UsersController.class
+com\cloudzoo\controller\HelloController.class
+com\cloudzoo\bean\AdminUser.class
+com\cloudzoo\controller\VideoController.class
